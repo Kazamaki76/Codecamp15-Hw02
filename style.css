@@ -1,0 +1,23 @@
+
+
+.card {
+    display: inline-block;
+    border: 2px solid red;
+    width: 300px;
+    margin: 5px;
+}
+
+img {
+    width: 100%;
+
+}
+
+.container {
+    text-align: center;
+    font-size: larger;
+}
+.item {
+    position:relative;
+    padding-top:20px;
+    display:inline-block;
+}
